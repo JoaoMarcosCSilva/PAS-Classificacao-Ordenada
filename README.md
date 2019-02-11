@@ -3,8 +3,7 @@ Como usar:
 
 1. Instale o python [python 3.6.2](https://www.python.org/downloads/release/python-362/) (outras versões podem funcionar, mas não foram testadas)
 
-2. Abra o arquivo dos resultados publicados pela UEM. 
-Ele pode ser encontrado em [a link](http://www.cvu.uem.br/)
+2. Abra o arquivo dos resultados publicados pela UEM ([Etapa 1 de 2018](http://www.vestibular.uem.br/resultado/PAS_2018/LG1018000.pdf), [Etapa 2 de 2018](http://www.vestibular.uem.br/resultado/PAS_2018/LG2018000.pdf))
 
 3. Copie todo o conteudo (no Windows, pressione CTRL + A) e cole em um arquivo do bloco de notas
 
